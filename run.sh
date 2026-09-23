@@ -9,10 +9,10 @@ ollama serve &
 # OLLAMA_ORIGINS=* ollama serve
 
 ollama list
-# باستخدام Python
+# using  Python
 python -m http.server 8000
 
-# أو باستخدام Node.js
+# or using Node.js
 npx serve
 
 
